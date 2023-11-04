@@ -1,0 +1,8 @@
+IGUI_FR = {
+
+   IGUI_VehicleNameRoller = "Rouleau compresseur",
+   IGUI_VehicleNameSweeper = "Balayeuse de voirie",  
+   IGUI_VehiclePartssweeperhead = "Brosses de balayage", 
+   IGUI_VehiclePartsweeperhead = "Tête de brosse de balayage",
+
+}
